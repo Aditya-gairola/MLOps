@@ -17,9 +17,9 @@ Everything runs on Kubernetes, Docker, and tools.
 
 | Step | Title | details |
 |------|-------|-------|
-| 1 | Project Dataset Pipeline | [details](https://github.com/Aditya-gairola/MLOps/1.md) |
-| 2 | Data Preparation Stages | [details](https://github.com/Aditya-gairola/MLOps/2.md) |
-| 3 | Training & Building the Prediction Model |  [details](https://github.com/Aditya-gairola/MLOps/3.md) |
-| 4 | From Model to Live API with KServe | [details](https://github.com/Aditya-gairola/MLOps/4.md)|
+| 1 | Project Dataset Pipeline | [details](https://github.com/Aditya-gairola/MLOps/tree/main/1.md) |
+| 2 | Data Preparation Stages | [details](https://github.com/Aditya-gairola/MLOps/tree/main/2/2.md) |
+| 3 | Training & Building the Prediction Model |  [details](https://github.com/Aditya-gairola/MLOps/tree/main/3.md) |
+| 4 | From Model to Live API with KServe | [details](https://github.com/Aditya-gairola/MLOps/tree/main/4.md)|
 
 Code: `phase-1-local-dev/`
