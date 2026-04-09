@@ -2,4 +2,7 @@
 venv/
 
 # Ignore processed datasets
-datasets/Processed/
+datasets/processed/
+# python
+__pycache__/
+*.pyc
