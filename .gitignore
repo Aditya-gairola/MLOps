@@ -1,0 +1,5 @@
+# Ignore all venvs anywhere
+venv/
+
+# Ignore processed datasets
+datasets/Processed/
