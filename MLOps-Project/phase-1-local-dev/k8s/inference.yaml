@@ -7,7 +7,7 @@ spec:
   predictor:
     containers:
       - name: kserve-container
-        image: techiescamp/attrition-inference:1.0.0
+        image: adityagairola23/attrition-inference:1.0.0
         ports:
           - containerPort: 8080
             protocol: TCP
