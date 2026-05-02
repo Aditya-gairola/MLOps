@@ -1,8 +1,31 @@
-# Ignore all venvs anywhere
-venv/
-
-# Ignore processed datasets
-datasets/processed/
-# python
+# ===== Python =====
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# ===== Virtual environments (anywhere in repo) =====
+venv/
+.venv/
+env/
+ENV/
+
+# ===== ML artifacts and generated outputs (anywhere in repo) =====
+artifacts/
+**/artifacts/
+
+# ===== Processed / generated datasets =====
+datasets/processed/
+**/datasets/processed/
+
+# ===== IDE / OS =====
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Logs =====
+*.log
