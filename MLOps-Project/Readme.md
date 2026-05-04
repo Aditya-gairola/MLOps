@@ -23,3 +23,19 @@ Everything runs on Kubernetes, Docker, and tools.
 | 4 | From Model to Live API with KServe | [details](https://github.com/Aditya-gairola/MLOps/tree/main/4.md)|
 
 Code: `phase-1-local-dev/`
+
+
+## Phase 2: Enterprise Orchestration for ML
+
+**Goal:** Replace local, manual ML workflows with production-grade orchestration. Versioned data, automated pipelines, experiment tracking, and scalable training.
+
+| Step | Title | Guide |
+|------|-------|-------|
+| 1 | Data Versioning Fundamentals  | [details](https://github.com/Aditya-gairola/MLOps/tree/main/5.md) |
+| 2 | Data Version Control (DVC) with AWS S3 | [details](https://github.com/Aditya-gairola/MLOps/tree/main/6.md)|
+| 3 | Data Versioning using Airflow on Kubernetes | [details](https://github.com/Aditya-gairola/MLOps/tree/main/7.md)|
+| 4 | Feature Store Fundamentals Explained | [details](https://github.com/Aditya-gairola/MLOps/tree/main/8.md) |
+| 4 | Hands-on Feature Store with Feast on Kubernetes | [details](https://github.com/Aditya-gairola/MLOps/tree/main/9.md) |
+| 4 | Kubeflow Explained for MLOps | [details]() |
+
+Code: `phase-2-enterprise-level-setup/`
