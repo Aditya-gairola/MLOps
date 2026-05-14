@@ -17,10 +17,10 @@ Everything runs on Kubernetes, Docker, and tools.
 
 | Step | Title | details |
 |------|-------|-------|
-| 1 | Project Dataset Pipeline | [details](https://github.com/Aditya-gairola/MLOps/tree/main/1.md) |
-| 2 | Data Preparation Stages | [details](https://github.com/Aditya-gairola/MLOps/tree/main/2.md) |
-| 3 | Training & Building the Prediction Model |  [details](https://github.com/Aditya-gairola/MLOps/tree/main/3.md) |
-| 4 | From Model to Live API with KServe | [details](https://github.com/Aditya-gairola/MLOps/tree/main/4.md)|
+| 1 | Project Dataset Pipeline | [details](https://github.com/Aditya-gairola/MLOps/tree/main/Building_a_Dataset_Pipeline.md) |
+| 2 | Data Preparation Stages | [details](https://github.com/Aditya-gairola/MLOps/tree/main/Data_preparation.md) |
+| 3 | Training & Building the Prediction Model |  [details](https://github.com/Aditya-gairola/MLOps/tree/main/Training_the_model.md) |
+| 4 | From Model to Live API with KServe | [details](https://github.com/Aditya-gairola/MLOps/tree/main/Deploying_the_Model_Using_KServe.md)|
 
 Code: `phase-1-local-dev/`
 
@@ -31,8 +31,8 @@ Code: `phase-1-local-dev/`
 
 | Step | Title | Guide |
 |------|-------|-------|
-| 1 | Data Versioning Fundamentals  | [details](https://github.com/Aditya-gairola/MLOps/tree/main/5.md) |
-| 2 | Data Version Control (DVC) with AWS S3 | [details](https://github.com/Aditya-gairola/MLOps/tree/main/6.md)|
+| 1 | Data Versioning Fundamentals  | [details](https://github.com/Aditya-gairola/MLOps/tree/main/DataDrift_ModelDecay_and_Dataset_Versioning.md) |
+| 2 | Data Version Control (DVC) with AWS S3 | [details](https://github.com/Aditya-gairola/MLOps/tree/main/Versioning_Data_with_DVC.md)|
 | 3 | Data Versioning using Airflow on Kubernetes | [details](https://github.com/Aditya-gairola/MLOps/tree/main/7.md)|
 | 4 | Feature Store Fundamentals Explained | [details](https://github.com/Aditya-gairola/MLOps/tree/main/8.md) |
 | 4 | Hands-on Feature Store with Feast on Kubernetes | [details](https://github.com/Aditya-gairola/MLOps/tree/main/9.md) |
