@@ -42,3 +42,10 @@ So in practice, a data scientist clones the repository and runs dvc pull. This f
 
 This ensures that both code and data are always in sync. If they need an older dataset for comparison or tuning, they can simply run git checkout to a previous commit and execute dvc pull.
 
+### Versioning Dataset with DVC (Hands-on)
+Now hands-on by managing the employee_attrition.csv dataset using DVC.
+
+In a real setup, this file would be managed by DVC inside an Apache Airflow worker. The ETL pipeline produces the CSV, and the DAG automatically runs dvc add and dvc push. 
+
+For learning purposes, we will push the dataset version that we have in the repo to Amazon S3 using a local DVC setup. This helps to understand what DVC is doing under the hood.
+
